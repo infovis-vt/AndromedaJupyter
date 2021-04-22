@@ -1,0 +1,8 @@
+numpy
+pandas
+math
+random
+sklearn
+matplotlib
+ipywidgets
+IPython
