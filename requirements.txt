@@ -1,6 +1,5 @@
 numpy
 pandas
-random
 sklearn
 matplotlib
 ipywidgets
